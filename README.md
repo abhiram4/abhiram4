@@ -12,12 +12,10 @@ Mechanical Engineering student at IIT Kharagpur. I work on AI agents and compute
 
 ### Projects
 
-| | |
-|---|---|
-| **[TraceRoot](https://github.com/abhiram4/traceRoot)** | Finds which step made an AI agent fail, and suggests a fix. |
-| **[Veri-VLM](https://github.com/abhiram4/Veri-VLM)** | Detects hallucinations in document-reading AI models. |
-| **[OCR-Medicine-Bottle](https://github.com/abhiram4/OCR-Medicine-Bottle)** | Reads medicine labels from photos and checks them against openFDA. |
-| **[SocraticStudy](https://github.com/abhiram4/SocraticStudy)** | Upload a PDF, get summaries and audio. |
+- **[TraceRoot](https://github.com/abhiram4/traceRoot)**: finds which step made an AI agent fail, and suggests a fix.
+- **[Veri-VLM](https://github.com/abhiram4/Veri-VLM)**: detects hallucinations in document-reading AI models.
+- **[OCR-Medicine-Bottle](https://github.com/abhiram4/OCR-Medicine-Bottle)**: reads medicine labels from photos and checks them against openFDA.
+- **[SocraticStudy](https://github.com/abhiram4/SocraticStudy)**: upload a PDF, get summaries and audio.
 
 ### Tech
 
@@ -25,9 +23,9 @@ Mechanical Engineering student at IIT Kharagpur. I work on AI agents and compute
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ts,js,react,nodejs,fastapi,mongodb,docker,git&perline=12" alt="Tech stack" />
 </p>
 
-### Stats
+---
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhiram4&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram4&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiram4/abhiram4/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abhiram4/abhiram4/output/snake-light.svg" />
+</picture>
